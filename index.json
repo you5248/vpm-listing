@@ -1,0 +1,28 @@
+{
+  "name": "you5248 VPM Listing",
+  "id": "com.you5248.vpm",
+  "url": "https://you5248.github.io/vpm-listing/index.json",
+  "author": "you5248",
+  "description": "you5248 の VRChat ワールド向けパッケージ",
+  "packages": {
+    "com.you5248.dhk-shaders": {
+      "versions": {
+        "1.4.0": {
+          "name": "com.you5248.dhk-shaders",
+          "displayName": "dhk Shaders",
+          "version": "1.4.0",
+          "unity": "2022.3",
+          "description": "Unityビルトイン(BiRP/Forward)向けの軽量Standard互換シェーダー。ライトマップのバイキュービック補間、MonoSH、LOD Cross-Fade、パックマップ(MOS/ORM/HDRP Mask)のチャンネル選択、VRC Light Volumes(拡散)に対応する。プロパティ名はUnity Standardと一致しており、Standardマテリアルから差し替えても値が保たれる。Quest向けの軽量版を同梱。",
+          "license": "See LICENSE",
+          "vrchatVersion": "2022.3.22f1",
+          "vpmDependencies": {},
+          "author": {
+            "name": "you5248"
+          },
+          "url": "https://github.com/you5248/dhk-shaders/releases/download/v1.4.0/com.you5248.dhk-shaders-1.4.0.zip",
+          "zipSHA256": "4f399586040d21bceefbf688d1af902f1716fa8669cabc01dd3286265b3d4800"
+        }
+      }
+    }
+  }
+}
