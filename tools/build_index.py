@@ -46,7 +46,8 @@ def main():
     packages = OrderedDict()
     for repo in PACKAGE_REPOS:
         for rel in gh_json("repos/{}/releases".format(repo)):
-            if rel.get("draft"):
+            # ドラフトと prerelease は載せない（壊れた版を prerelease に落として除外する運用）
+            if rel.get("draft") or rel.get("prerelease"):
                 continue
             for asset in rel.get("assets", []):
                 if not asset["name"].endswith(".zip"):
