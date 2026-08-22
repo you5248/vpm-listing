@@ -18,8 +18,6 @@ https://you5248.github.io/vpm-listing/index.json
 |---|---|
 | [`com.you5248.dhk-shaders`](https://github.com/you5248/dhk-shaders) | Unity ビルトイン（BiRP）向けの軽量 Standard 互換シェーダー。バイキュービックライトマップ / MonoSH / LOD Cross-Fade / パックマップ / VRC Light Volumes（拡散）。Quest 版同梱 |
 
-> `com.you5248.mirror-with-switch` は第三者由来のアセットを含むため非公開リポジトリで管理しており、
-> このリスティングには載せていない。導入は `git clone` で行う。
 
 ## 新しい版を出したときの更新手順
 
