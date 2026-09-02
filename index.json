@@ -26,14 +26,14 @@
     },
     "com.you5248.tools": {
       "versions": {
-        "1.0.1": {
+        "1.0.2": {
           "name": "com.you5248.tools",
           "displayName": "you5248 Tools",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "unity": "2022.3",
           "description": "VRChatワールド制作用ツール集。LOD生成、メッシュ結合・アトラス化、Quest移植支援、オブジェクトペインタ、シーン→プレハブ一括化などのエディタ拡張と、自動ドア・ピックアップキット・ループテレポート等のUdonギミック、植生・Quest向けシェーダー（Built-in RP用）を含む。",
           "license": "MIT",
-          "url": "https://github.com/you5248/you5248-tools/releases/download/v1.0.1/com.you5248.tools-1.0.1.zip",
+          "url": "https://github.com/you5248/you5248-tools/releases/download/v1.0.2/com.you5248.tools-1.0.2.zip",
           "vpmDependencies": {
             "com.vrchat.worlds": "^3.10.4",
             "com.you5248.dhk-shaders": "^1.4.1"
@@ -41,7 +41,7 @@
           "author": {
             "name": "you5248"
           },
-          "zipSHA256": "fcb6bb82a056f34a3777bbee80150ae3f313a78d69b9607dacf69dc52b8319b2"
+          "zipSHA256": "9d23fb7fc3fba707ab03390ef1dd251152ae56fddf924bfce91e97b42c02c4b9"
         },
         "1.0.0": {
           "name": "com.you5248.tools",
