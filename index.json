@@ -23,6 +23,26 @@
           "zipSHA256": "8b11ae37f3027e0f9a1a593976d3b9b35432284caf27609dcc0b94ee9260563a"
         }
       }
+    },
+    "com.you5248.tools": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.you5248.tools",
+          "displayName": "you5248 Tools",
+          "version": "1.0.0",
+          "unity": "2022.3",
+          "description": "VRChatワールド制作用の自作ツール群。LOD生成、メッシュ結合・アトラス化、Quest移植支援、オブジェクトペインタ、シーン→プレハブ一括化などのエディタツールと、自動ドア・ピックアップキット・シームレスループテレポート等のUdonギミックを含む。",
+          "vrchatVersion": "2022.3.22f1",
+          "vpmDependencies": {
+            "com.you5248.dhk-shaders": "^1.4.1"
+          },
+          "author": {
+            "name": "you5248"
+          },
+          "url": "https://github.com/you5248/you5248-tools/releases/download/v1.0.0/com.you5248.tools-1.0.0.zip",
+          "zipSHA256": "a8f3cbeef0ee83fa243ac69326ac3e5c7807c77a3d7bc85cd612251f0bc8ab0e"
+        }
+      }
     }
   }
 }

@@ -28,7 +28,7 @@ LISTING = OrderedDict([
 ])
 
 # ここに載せたいパッケージのリポジトリを書く（public のみ。private は VCC から取得できない）
-PACKAGE_REPOS = ["you5248/dhk-shaders"]
+PACKAGE_REPOS = ["you5248/dhk-shaders", "you5248/you5248-tools"]
 
 
 def gh_json(path):
